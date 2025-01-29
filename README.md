@@ -11,5 +11,6 @@ This project integrates the Tiptap editor with React, providing a customizable t
 - Undo and Redo actions
 - Customizable toolbar with icons
 
-![image](https://github.com/user-attachments/assets/54db0536-9de5-4270-b428-e659da9e066f)
+![image](https://github.com/user-attachments/assets/b2e47297-3886-4295-8ac9-7e4160902726)
+
 
